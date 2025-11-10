@@ -1,5 +1,5 @@
-# sameerhussainmughal3
-## Asslam_U_Alikum Everyone :-
+## Asslam_U_Alikum Everyone 👋
+
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Cloud Data Engineering (Python, SQL, Snowflake, Airflow, AWS)**
@@ -10,11 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love solving data problems and continuously improving my engineering skills!**
 
-<div align="center">
-  <a href="https://github.com/sameerhussainmughal3" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=sameerhussainmughal3&show_icons=true&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" alt="GitHub Profile Badge"/>
-  </a>
-</div>
+---
 
 # 👨‍💻 SAMEER HUSSAIN MUGHAL  
 **Aspiring Cloud Data Engineer** | Passionate Learner  
@@ -22,7 +18,10 @@ Here are some ideas to get you started:
 Driven by curiosity and discipline, I’m currently learning and building projects in **Data Engineering, Python, and Cloud Technologies.**  
 My goal is to design scalable data pipelines and cloud-based solutions that turn data into powerful insights.  
 
-![My GitHub Banner](https://media.licdn.com/dms/image/v2/C5616AQGM7hNPBiH5oQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1630326129466?e=2147483647&v=beta&t=dhgvLN4LpDzWMZ68mzf6GlINvSOE6hYRckTRPu9LC9A)
+---
+
+## 🖼️ My GitHub Banner
+![My GitHub Banner](https://media.licdn.com/dms/image/C5616AQGM7hNPBiH5oQ/profile-displaybackgroundimage-shrink_200_800/0/1630326129466?e=2147483647&v=beta&t=dhgvLN4LpDzWMZ68mzf6GlINvSOE6hYRckTRPu9LC9A)
 
 ---
 
@@ -48,7 +47,7 @@ My goal is to design scalable data pipelines and cloud-based solutions that turn
 ---
 
 ## 📜 Certifications
-## My Certificates are pending but I show this certificate from to cloud
+### My Certificates are pending but I show this certificate from to cloud:
 
 - Data Engineering in Python (DataCamp)  
 - Associate Data Engineer in SQL (DataCamp)  
@@ -58,38 +57,26 @@ My goal is to design scalable data pipelines and cloud-based solutions that turn
 
 ---
 
-### 🎢 GitHub Fun Zone
+## 🎢 GitHub Fun Zone  
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="https://github.com/sameerhussainmughal3">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sameerhussainmughal3&show_icons=true&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&icon_color=00F0FF&hide_border=true" height="180px"/>
-  </a>
-  <a href="https://github.com/sameerhussainmughal3">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerhussainmughal3&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true" height="180px"/>
-  </a>
-  <a href="https://github.com/sameerhussainmughal3">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sameerhussainmughal3&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" height="180px"/>
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameerhussainmughal3&show_icons=true&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&icon_color=00F0FF&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameerhussainmughal3&layout=compact&bg_color=0D1117&title_color=00AFFF&text_color=FFFFFF&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sameerhussainmughal3&theme=algolia&hide_border=true)
 
 ---
 
-#### 🌍 Let's Connect:
-<div align="center">
-    <a href="https://your-portfolio.example.com">
-      <img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF" alt="Website">
-    </a>
-    <a href="mailto:sameerhussainmughal3@gmail.com">
-      <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=00AFFF" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/sameerhussainmughal3">
-      <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080" alt="LinkedIn">
-    </a>
-</div>
+## 🌍 Let's Connect
+
+[![Website](https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00AFFF)](https://your-portfolio.example.com)
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00AFFF)](mailto:sameerhussainmughal3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=004080)](https://www.linkedin.com/in/sameerhussainmughal3)
 
 ---
 
 ## 🇵🇰 Urdu Introduction  
+
 **سمیر حسین مغل** ایک محنتی اور جستجو رکھنے والے طالب علم ہیں جو ڈیٹا انجینئرنگ، کلاؤڈ ٹیکنالوجیز اور پروگرامنگ میں اپنی مہارت بڑھا رہے ہیں۔  
 ان کا مقصد بہترین ڈیٹا انجینئر بننا اور ٹیکنالوجی کے میدان میں ملک کا نام روشن کرنا ہے۔  
 
