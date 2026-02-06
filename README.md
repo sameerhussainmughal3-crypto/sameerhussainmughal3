@@ -94,4 +94,4 @@ My goal is to design scalable data pipelines and cloud-based solutions that turn
 
 ---
 
-⭐ **“Discipline, Dedication, and Data — The Three Pillars of My Journey.”**
+⭐ **“Discipline, Dedication, and Data — The Three Pillars of My Journey.”***
